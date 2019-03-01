@@ -6,7 +6,7 @@ I built a client website that empowers Japanese women to become leaders and to m
 ## How It's Made:
 Used a html and css to display content and style a clean website. Used media queries to ensure responsiveness across three platforms.
 
-**Tech used:** HTML, CSS
+**Tech used:** HTML, CSS and Media queries
 
 ## Optimizations
 I would add javascript to give the site behaviors and make it functional.
